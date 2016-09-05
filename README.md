@@ -1,6 +1,6 @@
 # Stack
 
-**TODO: Add description**
+Elixir - OTP GenServer of a simple stack
 
 ## Installation
 
